@@ -1,15 +1,15 @@
-name: update awesome-stars
+name: by-stars
 on:
   workflow_dispatch:
   schedule:
-  - cron: '*/2 * * * *'
+  - cron: '0 1 * * *'
+permissions:
+  contents: read
+  issues: write
 jobs:
   awesome-stars:
     name: update awesome-stars
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      issues: write
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python
@@ -27,4 +27,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GA_GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by language update by github actions cron, created by starred'
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by language'
