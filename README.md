@@ -150,6 +150,10 @@
 
 ## Go 
 
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- [qdm12/go-template](https://github.com/qdm12/go-template) - Golang server template
+- [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [alexandrevilain/temporal-operator](https://github.com/alexandrevilain/temporal-operator) - Temporal Kubernetes Operator
@@ -383,6 +387,7 @@
 
 ## JavaScript 
 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [gimlet-io/capacitor](https://github.com/gimlet-io/capacitor) - A general purpose UI for FluxCD.
 - [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
 - [cloudflare/speedtest](https://github.com/cloudflare/speedtest) - Component to perform network speed tests against Cloudflare's edge network
