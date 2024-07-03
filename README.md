@@ -301,6 +301,7 @@
 
 ## HCL 
 
+- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [moabukar/tech-vault](https://github.com/moabukar/tech-vault) - A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.vercel.app/)
 - [stacksimplify/terraform-on-aws-eks](https://github.com/stacksimplify/terraform-on-aws-eks) - Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos
 - [digitalocean/kubecon-2022-doks-workshop](https://github.com/digitalocean/kubecon-2022-doks-workshop) - 
@@ -816,6 +817,7 @@
 
 ## TypeScript 
 
+- [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [Consdata/kouncil](https://github.com/Consdata/kouncil) - Powerful dashboard for your Kafka. Monitor status, manage groups, topics, send messages and diagnose problems. All in one user friendly web dashboard.
