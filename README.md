@@ -500,7 +500,7 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [PhilipSchmid/k8s-home-lab](https://github.com/PhilipSchmid/k8s-home-lab) - Setup for a K8s home lab running on a single host (e.g. Intel NUC)
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at system design.
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you pass system design interview and become good at work
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [postgres-ai/postgres-howtos](https://github.com/postgres-ai/postgres-howtos) - Postgres HowTo articles
