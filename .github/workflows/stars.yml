@@ -2,7 +2,7 @@ name: by-stars
 on:
   workflow_dispatch:
   schedule:
-  - cron: '0 1 * * *'
+  - cron: '0 0 * * MON'
 permissions:
   contents: read
   issues: write
