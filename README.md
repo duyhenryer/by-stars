@@ -380,9 +380,7 @@
 - [MossabTN/quarkus-microservices-poc](https://github.com/MossabTN/quarkus-microservices-poc) - Very simplified  shop sales system made in a microservices architecture using quarkus
 - [a-great-day-out-with/a-great-day-out-with.github.io](https://github.com/a-great-day-out-with/a-great-day-out-with.github.io) - 
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
-- [confluentinc/kafka-tutorials](https://github.com/confluentinc/kafka-tutorials) - Tutorials and Recipes for Apache Kafka
 - [GoogleCloudPlatform/gke-deployment-testing-strategies](https://github.com/GoogleCloudPlatform/gke-deployment-testing-strategies) - 
-- [confluentinc/kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples) - Demo applications and code examples for Apache Kafka's Streams API.
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
 - [apache/cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
