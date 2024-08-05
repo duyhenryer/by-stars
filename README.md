@@ -494,6 +494,7 @@
 
 ## Nix 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [breuerfelix/dotfiles](https://github.com/breuerfelix/dotfiles) - macOS + nix + home-manager + yabai + zsh + zellij + neovim
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [Remedan/dotfiles](https://github.com/Remedan/dotfiles) - My setup
