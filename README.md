@@ -503,7 +503,6 @@
 
 ## Mustache 
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [cloudworkz/kube-eagle-helm-chart](https://github.com/cloudworkz/kube-eagle-helm-chart) - Helm chart for deployment of kube-eagle
 
@@ -819,6 +818,7 @@
 
 ## Smarty 
 
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
 - [tuananh/chart-repo-template](https://github.com/tuananh/chart-repo-template) - A Helm chart repo template that publish to both OCI registry and GitHub Pages
 - [old-dso/chart-repo-template](https://github.com/old-dso/chart-repo-template) - A Helm chart repo template using OCI registry
