@@ -158,6 +158,7 @@
 
 ## Go 
 
+- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) - Redpanda Helm Chart
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [xssnick/tonutils-go](https://github.com/xssnick/tonutils-go) - TON SDK Library in pure Golang for interacting with The Open Network ecosystem using native protocols, such as ADNL, RLDP and etc.
@@ -503,6 +504,7 @@
 
 ## Mustache 
 
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [cloudworkz/kube-eagle-helm-chart](https://github.com/cloudworkz/kube-eagle-helm-chart) - Helm chart for deployment of kube-eagle
 
@@ -623,6 +625,7 @@
 
 ## Python 
 
+- [pingcap/blog](https://github.com/pingcap/blog) - 
 - [google/slo-generator](https://github.com/google/slo-generator) - SLO Generator computes SLIs, SLOs, Error Budgets and Burn Rates from supported backends, then exports an SLO report to supported targets.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [jgontrum/spacy-api-docker](https://github.com/jgontrum/spacy-api-docker) - spaCy REST API, wrapped in a Docker container.
@@ -818,7 +821,6 @@
 
 ## Smarty 
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
 - [tuananh/chart-repo-template](https://github.com/tuananh/chart-repo-template) - A Helm chart repo template that publish to both OCI registry and GitHub Pages
 - [old-dso/chart-repo-template](https://github.com/old-dso/chart-repo-template) - A Helm chart repo template using OCI registry
@@ -864,7 +866,6 @@
 - [graphprotocol/graph-network-subgraph](https://github.com/graphprotocol/graph-network-subgraph) - The subgraph, the smart contracts, the tests, and documents for the Graph Explorer Decentralized Application
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [connext/monorepo](https://github.com/connext/monorepo) - Connext is a modular stack for trust-minimized, generalized communication between blockchains.
-- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [typescript-exercises/typescript-exercises](https://github.com/typescript-exercises/typescript-exercises) - A set of interactive TypeScript exercises
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [dabit3/near-nft-subgraph](https://github.com/dabit3/near-nft-subgraph) - NEAR Subgraph for indexing and querying NFT metadata
