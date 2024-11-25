@@ -352,12 +352,13 @@
 - [ramitsurana/terraform-ansible-setup](https://github.com/ramitsurana/terraform-ansible-setup) - Setting up your complete infrastructure on cloud premises using Infrastructure as a Code
 - [slawekzachcial/kubernetes-the-hard-way-aws](https://github.com/slawekzachcial/kubernetes-the-hard-way-aws) - AWS flavour of https://github.com/kelseyhightower/kubernetes-the-hard-way
 - [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module to create AWS VPC resources 🇺🇦
-- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰
+- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰
 - [antonbabenko/modules.tf-demo](https://github.com/antonbabenko/modules.tf-demo) - Real modules.tf demo (updated May 2021)
 - [gruntwork-io/intro-to-terraform](https://github.com/gruntwork-io/intro-to-terraform) - Sample code for the blog post series "A Comprehensive Guide to Terraform."
 
 ## HTML 
 
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [networkop/tkng](https://github.com/networkop/tkng) - Source Repo for https://tkng.io
@@ -631,7 +632,6 @@
 
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [pingcap/blog](https://github.com/pingcap/blog) - 
 - [google/slo-generator](https://github.com/google/slo-generator) - SLO Generator computes SLIs, SLOs, Error Budgets and Burn Rates from supported backends, then exports an SLO report to supported targets.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -707,6 +707,7 @@
 
 ## Rust 
 
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -830,7 +831,6 @@
 
 - [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
-- [tuananh/chart-repo-template](https://github.com/tuananh/chart-repo-template) - A Helm chart repo template that publish to both OCI registry and GitHub Pages
 - [old-dso/chart-repo-template](https://github.com/old-dso/chart-repo-template) - A Helm chart repo template using OCI registry
 - [dirsigler/uptime-kuma-helm](https://github.com/dirsigler/uptime-kuma-helm) - This Helm Chart installs Uptime-Kuma from @louislam to your Kubernetes Cluster.
 - [stakewise/helm-charts](https://github.com/stakewise/helm-charts) - Curated StakeWise Helm Charts for Kubernetes
@@ -852,6 +852,8 @@
 
 ## TypeScript 
 
+- [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
+- [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
