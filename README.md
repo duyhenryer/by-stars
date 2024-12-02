@@ -40,6 +40,7 @@
 - [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
+- [Perl](#perl)
 - [PowerShell](#powershell)
 - [Pug](#pug)
 - [Python](#python)
@@ -135,7 +136,7 @@
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [duyhenryer/nettools](https://github.com/duyhenryer/nettools) - Nettools to debugs
-- [macbre/docker-nginx-http3](https://github.com/macbre/docker-nginx-http3) - Stable and up-to-date root-less nginx with quic + http/3, google brotli compression, njs, GeoIP2, and Grade A+ SSL config
+- [macbre/docker-nginx-http3](https://github.com/macbre/docker-nginx-http3) - Stable and up-to-date root-less nginx with quic + http/3, brotli and Zstandard compression, njs, GeoIP2, and Grade A+ SSL config
 - [b4tman/docker-squid](https://github.com/b4tman/docker-squid) - Squid in docker container based on Alpine Linux
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [vumdao/aws-ack-hands-on](https://github.com/vumdao/aws-ack-hands-on) - 
@@ -158,6 +159,7 @@
 
 ## Go 
 
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
@@ -341,7 +343,6 @@
 - [jetbrains-infra/terraform-aws-bastion-host](https://github.com/jetbrains-infra/terraform-aws-bastion-host) - AWS bastion host
 - [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [collabnix/terraform](https://github.com/collabnix/terraform) - Terraform  - Beginners | Intermediate | Advanced
-- [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [wardviaene/terraform-course](https://github.com/wardviaene/terraform-course) - Course files for my Udemy course about Terraform
 - [marcincuber/eks](https://github.com/marcincuber/eks) - AWS EKS - kubernetes project and terraform module
@@ -358,7 +359,7 @@
 
 ## HTML 
 
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [networkop/tkng](https://github.com/networkop/tkng) - Source Repo for https://tkng.io
@@ -413,6 +414,7 @@
 
 ## JavaScript 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [BourAbdelhadi/awsviz](https://github.com/BourAbdelhadi/awsviz) - 
@@ -618,6 +620,10 @@
 - [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
 - [umihico/PortfolioHub](https://github.com/umihico/PortfolioHub) - Your portfolio is captured here! Tag #portfolio-website on your repository.
 
+## Perl 
+
+- [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
+
 ## PowerShell 
 
 - [omerbsezer/Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.
@@ -783,6 +789,7 @@
 - [vishalraj82/MySQLReplDocker](https://github.com/vishalraj82/MySQLReplDocker) - MySQL master slave replication using docker
 - [Grokzen/docker-redis-cluster](https://github.com/Grokzen/docker-redis-cluster) - Dockerfile for Redis Cluster (redis 3.0+)
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
+- [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [ahmetb/cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering about Google Cloud Run.
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
