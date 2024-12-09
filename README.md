@@ -23,7 +23,6 @@
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
-- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [JSON](#json)
 - [Java](#java)
@@ -159,6 +158,7 @@
 
 ## Go 
 
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
@@ -169,11 +169,9 @@
 - [xssnick/tonutils-go](https://github.com/xssnick/tonutils-go) - TON SDK Library in pure Golang for interacting with The Open Network ecosystem using native protocols, such as ADNL, RLDP and etc.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [qdm12/go-template](https://github.com/qdm12/go-template) - Golang server template
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
@@ -322,7 +320,6 @@
 ## HCL 
 
 - [philips-labs/terraform-aws-github-oidc](https://github.com/philips-labs/terraform-aws-github-oidc) - Terraform module to  setup OIDC with AWS and GH Actions
-- [turnerlabs/terraform-ecs-fargate](https://github.com/turnerlabs/terraform-ecs-fargate) - A Terraform template used for provisioning web application stacks on AWS ECS Fargate
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [moabukar/tech-vault](https://github.com/moabukar/tech-vault) - A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.vercel.app/)
 - [stacksimplify/terraform-on-aws-eks](https://github.com/stacksimplify/terraform-on-aws-eks) - Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos
@@ -374,10 +371,6 @@
 - [duyhenryer/portfolio](https://github.com/duyhenryer/portfolio) - #️⃣ The second iteration of my personal website built with JavaScript and Sass.
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
 
-## Handlebars 
-
-- [mozilla/ssl-config-generator](https://github.com/mozilla/ssl-config-generator) - Mozilla SSL Configuration Generator
-
 ## Haskell 
 
 - [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) - Informative git prompt for zsh
@@ -423,6 +416,7 @@
 - [gimlet-io/capacitor](https://github.com/gimlet-io/capacitor) - A general purpose UI for FluxCD.
 - [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
 - [cloudflare/speedtest](https://github.com/cloudflare/speedtest) - Component to perform network speed tests against Cloudflare's edge network
+- [mozilla/ssl-config-generator](https://github.com/mozilla/ssl-config-generator) - Mozilla SSL Configuration Generator
 - [jvns/nginx-playground](https://github.com/jvns/nginx-playground) - 
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
