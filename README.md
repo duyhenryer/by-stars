@@ -149,7 +149,7 @@
 - [salrashid123/squid_proxy](https://github.com/salrashid123/squid_proxy) - Multi-mode Squid Proxy container running SSL intercept
 - [tcardonne/docker-github-runner](https://github.com/tcardonne/docker-github-runner) - Run GitHub Actions on self-hosted runner using Docker.
 - [mtpatter/postgres-kafka-demo](https://github.com/mtpatter/postgres-kafka-demo) - Fully reproducible, Dockerized, step-by-step, demo on how to stream tables from Postgres to Kafka/KSQL back to Postgres.  Detailed blog post published on Medium.
-- [dockette/php](https://github.com/dockette/php) - :whale: Dockette Debian based PHP 5.6-8.3 + FPM + Composer.
+- [dockette/php](https://github.com/dockette/php) - :whale: Dockette Debian based PHP 5.6-8.4 + FPM + Composer.
 - [yankils/Simple-DevOps-Project](https://github.com/yankils/Simple-DevOps-Project) - 
 - [aschmelyun/docker-compose-laravel](https://github.com/aschmelyun/docker-compose-laravel) - A docker-compose workflow for local Laravel development
 - [dwyl/learn-docker](https://github.com/dwyl/learn-docker) - 🚢    Learn how to use docker.io containers to consistently deploy your apps on any infrastructure.
@@ -302,7 +302,7 @@
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
 - [hashicorp/terraform-provider-kubernetes](https://github.com/hashicorp/terraform-provider-kubernetes) - Terraform Kubernetes provider
 - [ContainerSolutions/k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies) - Kubernetes deployment strategies explained
 - [kubernetes-retired/external-storage](https://github.com/kubernetes-retired/external-storage) - [EOL] External storage plugins, provisioners, and helper libraries
