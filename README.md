@@ -348,7 +348,7 @@
 - [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
 - [digitalocean/Kubernetes-Starter-Kit-Developers](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers) - Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster.
 - [JohnMops/DevOps](https://github.com/JohnMops/DevOps) - Tools and Mini Projects
-- [vietanhduong/my-cluster](https://github.com/vietanhduong/my-cluster) - My Kubernetes cluster
+- [x00real/my-cluster](https://github.com/x00real/my-cluster) - My Kubernetes cluster
 - [jetbrains-infra/terraform-aws-bastion-host](https://github.com/jetbrains-infra/terraform-aws-bastion-host) - AWS bastion host
 - [collabnix/terraform](https://github.com/collabnix/terraform) - Terraform  - Beginners | Intermediate | Advanced
 - [wardviaene/terraform-course](https://github.com/wardviaene/terraform-course) - Course files for my Udemy course about Terraform
@@ -711,6 +711,7 @@
 
 ## Rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [Qovery/iam-eks-user-mapper](https://github.com/Qovery/iam-eks-user-mapper) - A tool to automatically give AWS IAM users access to your Kubernetes cluster.
