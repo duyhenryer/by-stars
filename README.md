@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [CUE](#cue)
 - [Clojure](#clojure)
+- [Common Lisp](#common-lisp)
 - [D](#d)
 - [D2](#d2)
 - [Dart](#dart)
@@ -68,6 +69,7 @@
 
 ## C 
 
+- [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)
 - [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [sshlog/agent](https://github.com/sshlog/agent) - SSH Session Monitoring Daemon
@@ -124,6 +126,10 @@
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 
+## Common Lisp 
+
+- [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
+
 ## D 
 
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
@@ -140,7 +146,6 @@
 ## Dockerfile 
 
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
-- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [duyhenryer/nettools](https://github.com/duyhenryer/nettools) - Nettools to debugs
 - [macbre/docker-nginx-http3](https://github.com/macbre/docker-nginx-http3) - Stable and up-to-date root-less nginx with quic + http/3, brotli and Zstandard compression, njs, GeoIP2, and Grade A+ SSL config
 - [b4tman/docker-squid](https://github.com/b4tman/docker-squid) - Squid in docker container based on Alpine Linux
@@ -429,7 +434,6 @@
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [samarpanda/traefik-demo](https://github.com/samarpanda/traefik-demo) - Traefik: Modern HTTP reverse proxy and load balancing that makes deploying microservices easy
 - [IBM/openshift-mongodb-enterprise-operator-example](https://github.com/IBM/openshift-mongodb-enterprise-operator-example) - Using MongoDB Enterprise Operator with OpenShift and adding TLS using cert-manager
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [JiHong88/suneditor](https://github.com/JiHong88/suneditor) - A lightweight and powerful WYSIWYG editor in vanilla JavaScript. No dependencies.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -763,6 +767,7 @@
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [ghik/kubernetes-the-harder-way](https://github.com/ghik/kubernetes-the-harder-way) - A guide to setting up a production-like Kubernetes cluster on a local machine
+- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering
 - [sameersbn/docker-squid](https://github.com/sameersbn/docker-squid) - Dockerfile to create a Docker container image for Squid proxy server
 - [yokawasa/kubectl-plugin-ssh-jump](https://github.com/yokawasa/kubectl-plugin-ssh-jump) - A kubectl plugin to access nodes or remote services using a SSH jump Pod
