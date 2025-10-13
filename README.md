@@ -11,21 +11,15 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
-- [CSS](#css)
 - [CUE](#cue)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [D](#d)
 - [D2](#d2)
-- [Dart](#dart)
 - [Dockerfile](#dockerfile)
-- [Elixir](#elixir)
-- [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
-- [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
-- [Haskell](#haskell)
 - [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -51,8 +45,6 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
-- [Swift](#swift)
-- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -114,14 +106,6 @@
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [ndrplz/self-driving-car](https://github.com/ndrplz/self-driving-car) - Udacity Self-Driving Car Engineer Nanodegree projects.
 
-## CSS 
-
-- [nnthanh101/Serverless-DataHub](https://github.com/nnthanh101/Serverless-DataHub) - 🎯 Building Scalable Cloud-Native DataHub Serverless Application ⛅
-- [microsoft/azuredevopslabs](https://github.com/microsoft/azuredevopslabs) - Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.
-- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
-- [anmoljagetia/Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-
 ## CUE 
 
 - [stefanprodan/flux-local-dev](https://github.com/stefanprodan/flux-local-dev) - Flux local dev environment with Docker and Kubernetes KIND
@@ -142,38 +126,24 @@
 
 - [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python, D2 and MermaidJS languages
 
-## Dart 
-
-- [iampawan/MediumClapFlutter](https://github.com/iampawan/MediumClapFlutter) - A Custom Floating Action Button (FAB) library like clapping effect on Medium
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
 ## Dockerfile 
 
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
 - [duyhenryer/nettools](https://github.com/duyhenryer/nettools) - Nettools to debugs
 - [macbre/docker-nginx-http3](https://github.com/macbre/docker-nginx-http3) - Stable and up-to-date root-less nginx with quic + http/3, brotli and Zstandard compression, njs, GeoIP2, and Grade A+ SSL config
 - [b4tman/docker-squid](https://github.com/b4tman/docker-squid) - Squid in docker container based on Alpine Linux
-- [timothystewart6/launchpad](https://github.com/timothystewart6/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
-- [vumdao/aws-ack-hands-on](https://github.com/vumdao/aws-ack-hands-on) - 
 - [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server) - 
 - [salrashid123/squid_proxy](https://github.com/salrashid123/squid_proxy) - Multi-mode Squid Proxy container running SSL intercept
 - [tcardonne/docker-github-runner](https://github.com/tcardonne/docker-github-runner) - Run GitHub Actions on self-hosted runner using Docker.
 - [mtpatter/postgres-kafka-demo](https://github.com/mtpatter/postgres-kafka-demo) - Fully reproducible, Dockerized, step-by-step, demo on how to stream tables from Postgres to Kafka/KSQL back to Postgres.  Detailed blog post published on Medium.
 - [dockette/php](https://github.com/dockette/php) - :whale: Dockette Debian based PHP 5.6-8.4 + FPM + Composer.
-- [yankils/Simple-DevOps-Project](https://github.com/yankils/Simple-DevOps-Project) - 
 - [aschmelyun/docker-compose-laravel](https://github.com/aschmelyun/docker-compose-laravel) - A docker-compose workflow for local Laravel development
-- [dwyl/learn-docker](https://github.com/dwyl/learn-docker) - 🚢    Learn how to use docker.io containers to consistently deploy your apps on any infrastructure.
-
-## Elixir 
-
-- [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler.
-
-## Emacs Lisp 
-
-- [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
 ## Go 
 
+- [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
+- [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+- [liweiyi88/onedump](https://github.com/liweiyi88/onedump) - Effortless database administration tool
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
 - [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal)
 - [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress & Gateway API Controller
@@ -338,10 +308,6 @@
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
 - [bitly/oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 
-## Groovy 
-
-- [istresearch/jenkins](https://github.com/istresearch/jenkins) - jenkins-ist
-
 ## HCL 
 
 - [Smana/cloud-native-ref](https://github.com/Smana/cloud-native-ref) - Opiniated Cloud Native Platform Reference
@@ -381,8 +347,6 @@
 ## HTML 
 
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
-- [networkop/tkng](https://github.com/networkop/tkng) - Source Repo for https://tkng.io
 - [aws-samples/aws-iam-access-key-auto-rotation](https://github.com/aws-samples/aws-iam-access-key-auto-rotation) - This set of CloudFormation templates and Python scripts will set up an auto-rotation function that will automatically rotate your AWS IAM User Access Keys every 90 days.
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [themesberg/tailwind-dashboard-windster](https://github.com/themesberg/tailwind-dashboard-windster) - Free and open-source admin dashboard interface built on top of Tailwind CSS and Flowbite
@@ -392,12 +356,6 @@
 - [openshift/openshift-docs](https://github.com/openshift/openshift-docs) - OpenShift 3 and 4 product and community documentation
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [duyhenryer/portfolio](https://github.com/duyhenryer/portfolio) - #️⃣ The second iteration of my personal website built with JavaScript and Sass.
-- [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
-
-## Haskell 
-
-- [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) - Informative git prompt for zsh
 
 ## JSON 
 
@@ -468,7 +426,6 @@
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
 - [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
-- [duyhenryer/Tet-sHoliday](https://github.com/duyhenryer/Tet-sHoliday) - Tet's of Vietnam
 - [mvhdi/coinvista](https://github.com/mvhdi/coinvista) - Visualization of the live crypto-currency market data using an interactive Treemap. Built with D3Plus.
 - [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.
 - [knoopx/crypto-watch](https://github.com/knoopx/crypto-watch) - Real-time crypto-currency dashboard
@@ -484,7 +441,7 @@
 
 ## Jinja 
 
-- [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
+- [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora, openSUSE Leap and some Redhat ES variants.
 
 ## Jsonnet 
 
@@ -868,19 +825,6 @@
 - [stakewise/helm-charts](https://github.com/stakewise/helm-charts) - Curated StakeWise Helm Charts for Kubernetes
 - [minhpq331/jitsi-scalable-helm](https://github.com/minhpq331/jitsi-scalable-helm) - Scalable jitsi helm chart
 - [rancher/charts](https://github.com/rancher/charts) - Github based Helm Chart Index Repository providing charts crafted for Rancher Manager
-
-## Swift 
-
-- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
-- [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
-- [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
-- [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
-
-## TeX 
-
-- [matze/mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
-- [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 
 ## TypeScript 
 
