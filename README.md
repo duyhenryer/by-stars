@@ -66,7 +66,6 @@
 
 ## C 
 
-- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)
 - [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -218,10 +217,8 @@
 - [inCaller/prometheus_bot](https://github.com/inCaller/prometheus_bot) - Telegram bot for prometheus alerting
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
-- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [estafette/estafette-gke-preemptible-killer](https://github.com/estafette/estafette-gke-preemptible-killer) - Kubernetes controller to spread preemption for preemtible VMs in GKE to avoid mass deletion after 24 hours
 - [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [kumahq/kuma](https://github.com/kumahq/kuma) - 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
@@ -310,16 +307,15 @@
 
 ## HCL 
 
+- [bchess/k8s-1m](https://github.com/bchess/k8s-1m) - Run Kubernetes with a million nodes
 - [Smana/cloud-native-ref](https://github.com/Smana/cloud-native-ref) - Opiniated Cloud Native Platform Reference
 - [stacksimplify/terraform-on-google-kubernetes-engine](https://github.com/stacksimplify/terraform-on-google-kubernetes-engine) - GCP GKE Terraform on Google Kubernetes Engine with DevOps, SRE 40 Real-World Demos
 - [grem11n/terraform-aws-vpc-peering](https://github.com/grem11n/terraform-aws-vpc-peering) - Terraform module to setup VPC peering connection
 - [philips-labs/terraform-aws-github-oidc](https://github.com/philips-labs/terraform-aws-github-oidc) - Terraform module to  setup OIDC with AWS and GH Actions
-- [moabukar/tech-vault](https://github.com/moabukar/tech-vault) - A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.vercel.app/)
 - [stacksimplify/terraform-on-aws-eks](https://github.com/stacksimplify/terraform-on-aws-eks) - Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos
 - [digitalocean/kubecon-2022-doks-workshop](https://github.com/digitalocean/kubecon-2022-doks-workshop) - 
 - [superorbital/aws-eks-blueprint-examples](https://github.com/superorbital/aws-eks-blueprint-examples) - An example Terraform repo that utilizes the upstream EKS blueprints project from AWS Integration and Automation.
 - [GoogleCloudPlatform/federated-learning](https://github.com/GoogleCloudPlatform/federated-learning) - Federated Learning on Google Cloud
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters
 - [terraform-aws-modules/terraform-aws-iam](https://github.com/terraform-aws-modules/terraform-aws-iam) - Terraform module to create AWS IAM resources 🇺🇦
 - [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) - Configure and deploy complete EKS clusters.
@@ -346,7 +342,6 @@
 
 ## HTML 
 
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 - [aws-samples/aws-iam-access-key-auto-rotation](https://github.com/aws-samples/aws-iam-access-key-auto-rotation) - This set of CloudFormation templates and Python scripts will set up an auto-rotation function that will automatically rotate your AWS IAM User Access Keys every 90 days.
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [themesberg/tailwind-dashboard-windster](https://github.com/themesberg/tailwind-dashboard-windster) - Free and open-source admin dashboard interface built on top of Tailwind CSS and Flowbite
@@ -367,7 +362,6 @@
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
-- [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
@@ -505,11 +499,8 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [PhilipSchmid/k8s-home-lab](https://github.com/PhilipSchmid/k8s-home-lab) - Setup for a K8s home lab running on a single host (e.g. Intel NUC)
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Newsletter to help busy software engineers become good at system design 👇
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [postgres-ai/postgres-howtos](https://github.com/postgres-ai/postgres-howtos) - Postgres HowTo articles
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [dttung2905/kafka-in-production](https://github.com/dttung2905/kafka-in-production) - :books: Tech blogs & talks by companies that run Kafka in production
 - [dttung2905/flink-at-scale](https://github.com/dttung2905/flink-at-scale) - 📚 Tech blogs & talks by companies that run Apache Flink in production
@@ -517,8 +508,6 @@
 - [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run?
 - [trimstray/iptables-essentials](https://github.com/trimstray/iptables-essentials) - Iptables Essentials: Common Firewall Rules and Commands.
 - [chrislevn/dockerfile-practices](https://github.com/chrislevn/dockerfile-practices) - Good practices on writing Dockerfile
-- [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
-- [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [fluxcd-community/microservices-demo](https://github.com/fluxcd-community/microservices-demo) - Lightweight microservices demo made with podinfo, managed by flux and monitored by weave gitops.
@@ -528,7 +517,6 @@
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [iamckn/wireguard_ansible](https://github.com/iamckn/wireguard_ansible) - Ansible scripts for the set up a typical wireguard VPN connection
 - [kalaiser/awesome-cdk](https://github.com/kalaiser/awesome-cdk) - A collection of awesome things related to the AWS Cloud Development Kit (CDK)
-- [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [github/dev](https://github.com/github/dev) - Press the . key on any repo
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
@@ -566,7 +554,6 @@
 - [kelseyhightower/intro-to-kubernetes-workshop](https://github.com/kelseyhightower/intro-to-kubernetes-workshop) - Intro to Kubernetes Workshop
 - [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
 - [twajr/ckad-prep-notes](https://github.com/twajr/ckad-prep-notes) - List of resources and notes for passing the Certified Kubernetes Application Developer (CKAD) exam.
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [AlessioCasco/AWS-CSA-2019-study-notes](https://github.com/AlessioCasco/AWS-CSA-2019-study-notes) - My Study Notes for the AWS Certified Solutions Architect - Associate 2019
 - [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji) - Every commit is important. So let's celebrate each and every commit with a corresponding emoji! :smile:
 - [raycad/devops-roadmap](https://github.com/raycad/devops-roadmap) - DevOps methodology & roadmap for a devops developer in 2019. Interesting books to learn new technologies.
@@ -615,7 +602,6 @@
 - [firewalld/firewalld](https://github.com/firewalld/firewalld) - Stateful zone based firewall daemon with D-Bus interface
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [pingcap/blog](https://github.com/pingcap/blog) - 
 - [google/slo-generator](https://github.com/google/slo-generator) - SLO Generator computes SLIs, SLOs, Error Budgets and Burn Rates from supported backends, then exports an SLO report to supported targets.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -625,7 +611,6 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [tssovi/grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview) - 
@@ -642,7 +627,6 @@
 - [miztiik/my-first-cdk-project](https://github.com/miztiik/my-first-cdk-project) - A hands on repo with multiple demonstrations on CDK: Used by Udemy Course🎓
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [kairen/kubereum](https://github.com/kairen/kubereum) - Kubernetes + Ethereum = Kubereum!!!
-- [BL0CK-X/blockchain-api](https://github.com/BL0CK-X/blockchain-api) - This repository is used to host examples for how to use the Blockchain API (docs.blockchainapi.com). Open an issue to report bugs and request features.
 - [DevOps-Nirvana/Kubernetes-Volume-Autoscaler](https://github.com/DevOps-Nirvana/Kubernetes-Volume-Autoscaler) - Autoscaling volumes for Kubernetes (with the help of Prometheus)
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
@@ -684,13 +668,12 @@
 
 ## Rust 
 
+- [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust.
-- [zeenix/gimoji](https://github.com/zeenix/gimoji) - Easily add emojis to your git commit messages 😎
 - [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [Qovery/iam-eks-user-mapper](https://github.com/Qovery/iam-eks-user-mapper) - A tool to automatically give AWS IAM users access to your Kubernetes cluster.
 - [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
@@ -708,10 +691,8 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
-- [teivah/rust-cheatsheet](https://github.com/teivah/rust-cheatsheet) - Rust Language Cheat Sheet
 - [fadeevab/design-patterns-rust](https://github.com/fadeevab/design-patterns-rust) - Rust examples for all 23 classic GoF design patterns, and even a little more
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
@@ -735,7 +716,6 @@
 - [swade1987/github-action-kustomize-diff](https://github.com/swade1987/github-action-kustomize-diff) - This action automatically generates and posts diffs of your Kustomize changes directly in your PR comments.
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-- [ghik/kubernetes-the-harder-way](https://github.com/ghik/kubernetes-the-harder-way) - A guide to setting up a production-like Kubernetes cluster on a local machine
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering
 - [sameersbn/docker-squid](https://github.com/sameersbn/docker-squid) - Dockerfile to create a Docker container image for Squid proxy server
@@ -822,7 +802,6 @@
 - [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
 - [dirsigler/uptime-kuma-helm](https://github.com/dirsigler/uptime-kuma-helm) - This Helm Chart installs Uptime-Kuma from @louislam to your Kubernetes Cluster.
-- [stakewise/helm-charts](https://github.com/stakewise/helm-charts) - Curated StakeWise Helm Charts for Kubernetes
 - [minhpq331/jitsi-scalable-helm](https://github.com/minhpq331/jitsi-scalable-helm) - Scalable jitsi helm chart
 - [rancher/charts](https://github.com/rancher/charts) - Github based Helm Chart Index Repository providing charts crafted for Rancher Manager
 
@@ -858,10 +837,8 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [nrndev/ultimate-stack](https://github.com/nrndev/ultimate-stack) - Ultimate Stack [Glotixz] is a  Event Driven Microservices  Ecommerce App  running on Kubernetes with Istio as the service-mesh and cloudnative serverless components by knative and deployed to kubernet
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-- [Uniswap/v3-subgraph](https://github.com/Uniswap/v3-subgraph) - Subgraph for Uniswap V3
 - [ConsenSys-archive/truffle](https://github.com/ConsenSys-archive/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [connext/monorepo](https://github.com/connext/monorepo) - Connext is a modular stack for trust-minimized, generalized communication between blockchains.
-- [typescript-exercises/typescript-exercises](https://github.com/typescript-exercises/typescript-exercises) - A set of interactive TypeScript exercises
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [dabit3/near-nft-subgraph](https://github.com/dabit3/near-nft-subgraph) - NEAR Subgraph for indexing and querying NFT metadata
 - [ipfs-shipyard/is-ipfs](https://github.com/ipfs-shipyard/is-ipfs) - A set of utilities to help identify IPFS resources on the web
