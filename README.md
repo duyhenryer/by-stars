@@ -128,12 +128,13 @@
 - [tcardonne/docker-github-runner](https://github.com/tcardonne/docker-github-runner) - Run GitHub Actions on self-hosted runner using Docker.
 - [mtpatter/postgres-kafka-demo](https://github.com/mtpatter/postgres-kafka-demo) - Fully reproducible, Dockerized, step-by-step, demo on how to stream tables from Postgres to Kafka/KSQL back to Postgres.  Detailed blog post published on Medium.
 - [dockette/php](https://github.com/dockette/php) - :whale: Dockette Debian based PHP 5.6-8.4 + FPM + Composer.
+- [docker-library/openjdk](https://github.com/docker-library/openjdk) - Docker Official Image packaging for EA builds of OpenJDK from Oracle
 - [aschmelyun/docker-compose-laravel](https://github.com/aschmelyun/docker-compose-laravel) - A docker-compose workflow for local Laravel development
 
 ## Go 
 
 - [rootsami/terradrift](https://github.com/rootsami/terradrift) - A tool to detect drifts in terraform IaC
-- [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL monitoring and backups (with UI and self hosted)
+- [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL backup tool
 - [enix/kube-image-keeper](https://github.com/enix/kube-image-keeper) - kuik is a container image caching system for Kubernetes
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
@@ -288,7 +289,7 @@
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [spotahome/redis-operator](https://github.com/spotahome/redis-operator) - Redis Operator creates/configures/manages high availability redis with sentinel automatic failover atop Kubernetes.
 - [wave-k8s/wave](https://github.com/wave-k8s/wave) - Kubernetes configuration tracking controller
-- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Valkey & Redis Metrics. Supports Valkey 7.x & 8.x and Redis 2.x, 3.x, 4.x, 5.x, 6.x, 7.x, and 8.x
+- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Valkey & Redis Metrics. Supports Valkey 9.x, 8.x, 7.x and various Redis versions
 - [wardviaene/kubernetes-course](https://github.com/wardviaene/kubernetes-course) - Kubernetes Course Files
 - [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -487,6 +488,7 @@
 
 ## Others 
 
+- [STRRL/claude-code-dotfiles](https://github.com/STRRL/claude-code-dotfiles) - 
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards
@@ -764,7 +766,6 @@
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
 - [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
 - [stelligent/cloudformation_templates](https://github.com/stelligent/cloudformation_templates) - AWS - CloudFormation Templates
-- [docker-library/openjdk](https://github.com/docker-library/openjdk) - Docker Official Image packaging for EA builds of OpenJDK from Oracle
 - [elgohr/Publish-Docker-Github-Action](https://github.com/elgohr/Publish-Docker-Github-Action) - A Github Action used to build and publish Docker images
 - [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI
 - [wmnnd/nginx-certbot](https://github.com/wmnnd/nginx-certbot) - Boilerplate configuration for nginx and certbot with docker-compose
