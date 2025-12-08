@@ -360,7 +360,7 @@
 - [hakdogan/kafka-with-microservices](https://github.com/hakdogan/kafka-with-microservices) - This repository is a tutorial for JUG Istanbul's Apache Kafka meetup that showing how Apache Kafka can be used in inter-microservices communication
 - [MossabTN/quarkus-microservices-poc](https://github.com/MossabTN/quarkus-microservices-poc) - Very simplified  shop sales system made in a microservices architecture using quarkus
 - [a-great-day-out-with/a-great-day-out-with.github.io](https://github.com/a-great-day-out-with/a-great-day-out-with.github.io) - 
-- [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
+- [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
 - [GoogleCloudPlatform/gke-deployment-testing-strategies](https://github.com/GoogleCloudPlatform/gke-deployment-testing-strategies) - 
 - [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
@@ -400,7 +400,7 @@
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [SebastienBtr/Micro-express](https://github.com/SebastienBtr/Micro-express) - Proof of concept of a specs driven development microservices architecture using code generation.
-- [debezium/debezium-examples](https://github.com/debezium/debezium-examples) - Examples for running Debezium (Configuration, Docker Compose files etc.)
+- [debezium/debezium-examples](https://github.com/debezium/debezium-examples) - Examples for running Debezium (Configuration, Docker Compose files etc.). Please log issues at https://github.com/debezium/dbz/issues.
 - [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis
 - [pantsel/konga](https://github.com/pantsel/konga) - More than just another GUI to Kong Admin API
 - [aws-actions/amazon-ecr-login](https://github.com/aws-actions/amazon-ecr-login) - Logs into Amazon ECR with the local Docker client.
@@ -591,6 +591,7 @@
 
 ## Python 
 
+- [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
@@ -743,7 +744,7 @@
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [confluentinc/demo-scene](https://github.com/confluentinc/demo-scene) - Scripts and samples to support Confluent Demos, Talks, and Blogs. Not all of the examples in this repository are kept up to date. For automated tutorials and QA'd code, see https://github.com/confluen
 - [lensesio/fast-data-dev](https://github.com/lensesio/fast-data-dev) - Kafka Docker for development. Kafka, Zookeeper, Schema Registry, Kafka-Connect, , 20+ connectors
-- [debezium/container-images](https://github.com/debezium/container-images) - Docker images for Debezium. Please log issues in our JIRA at https://issues.redhat.com/projects/DBZ/summary
+- [debezium/container-images](https://github.com/debezium/container-images) - Docker images for Debezium. Please log issues at https://github.com/debezium/dbz/issues.
 - [HariSekhon/HAProxy-configs](https://github.com/HariSekhon/HAProxy-configs) - 80+ HAProxy Configs for Hadoop, Big Data, NoSQL, Docker, Kubernetes, Elasticsearch, SolrCloud, HBase, MySQL, PostgreSQL, Apache Drill, Hive, Presto, Impala, Hue, ZooKeeper, SSH, RabbitMQ, Redis, Riak,
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) - Dockerfile for Apache Kafka
