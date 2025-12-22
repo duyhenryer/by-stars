@@ -65,6 +65,7 @@
 
 ## C 
 
+- [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)
 - [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
@@ -87,7 +88,6 @@
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
 - [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [percona/percona-xtrabackup](https://github.com/percona/percona-xtrabackup) - Open source hot backup tool for InnoDB and XtraDB databases
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -320,6 +320,7 @@
 - [JohnMops/DevOps](https://github.com/JohnMops/DevOps) - Tools and Mini Projects
 - [jetbrains-infra/terraform-aws-bastion-host](https://github.com/jetbrains-infra/terraform-aws-bastion-host) - AWS bastion host
 - [collabnix/terraform](https://github.com/collabnix/terraform) - Terraform  - Beginners | Intermediate | Advanced
+- [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [wardviaene/terraform-course](https://github.com/wardviaene/terraform-course) - Course files for my Udemy course about Terraform
 - [marcincuber/eks](https://github.com/marcincuber/eks) - AWS EKS - kubernetes project and terraform module
 - [cloudposse/terraform-aws-ec2-bastion-server](https://github.com/cloudposse/terraform-aws-ec2-bastion-server) - Terraform module to define a generic Bastion host with parameterized user_data  and support for AWS SSM Session Manager for remote access with IAM authentication.
@@ -350,7 +351,7 @@
 
 ## Java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
@@ -376,6 +377,7 @@
 ## JavaScript 
 
 - [Mattraks/delete-workflow-runs](https://github.com/Mattraks/delete-workflow-runs) - An action to delete workflow runs in a repository.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [BourAbdelhadi/awsviz](https://github.com/BourAbdelhadi/awsviz) - 
 - [garygrossgarten/github-action-scp](https://github.com/garygrossgarten/github-action-scp) - ⬆️ Copy a folder to a remote server using SSH
@@ -595,7 +597,7 @@
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [firewalld/firewalld](https://github.com/firewalld/firewalld) - Stateful zone based firewall daemon with D-Bus interface
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
@@ -711,6 +713,7 @@
 
 ## Shell 
 
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [akuity/kargo-advanced](https://github.com/akuity/kargo-advanced) - Advanced Kargo Example
 - [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) - Claude Code settings, commands and agents for vibe coding
 - [Smana/cloud-native-ref](https://github.com/Smana/cloud-native-ref) - Opiniated Cloud Native Platform Reference
@@ -756,7 +759,6 @@
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
 - [ahmetb/cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering about Google Cloud Run.
-- [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [jweissig/episode-45](https://github.com/jweissig/episode-45) - Episode #45 - Learning Ansible with Vagrant
@@ -816,7 +818,6 @@
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
