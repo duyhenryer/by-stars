@@ -29,6 +29,7 @@
 - [Just](#just)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Mermaid](#mermaid)
 - [Mustache](#mustache)
 - [Nix](#nix)
 - [Others](#others)
@@ -149,7 +150,7 @@
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [liweiyi88/onedump](https://github.com/liweiyi88/onedump) - Effortless database administration tool
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
-- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.
+- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Runs anywhere - desktop, cluster, docker.
 - [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress & Gateway API Controller
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
@@ -283,7 +284,6 @@
 - [kubernetes-retired/external-storage](https://github.com/kubernetes-retired/external-storage) - [EOL] External storage plugins, provisioners, and helper libraries
 - [kubernetes-sigs/aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) - CSI Driver for Amazon EFS https://aws.amazon.com/efs/
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [kubeflow/spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [spotahome/redis-operator](https://github.com/spotahome/redis-operator) - Redis Operator creates/configures/manages high availability redis with sentinel automatic failover atop Kubernetes.
 - [wave-k8s/wave](https://github.com/wave-k8s/wave) - Kubernetes configuration tracking controller
@@ -390,7 +390,7 @@
 - [IBM/openshift-mongodb-enterprise-operator-example](https://github.com/IBM/openshift-mongodb-enterprise-operator-example) - Using MongoDB Enterprise Operator with OpenShift and adding TLS using cert-manager
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [JiHong88/suneditor](https://github.com/JiHong88/suneditor) - A lightweight and powerful WYSIWYG editor in vanilla JavaScript. No dependencies.
-- [rchakode/kube-opex-analytics](https://github.com/rchakode/kube-opex-analytics) - Open source Kubernetes resource usage tracking, accounting, and optimization per namespace — for CPU, Memory, and GPU.
+- [realopslabs/kubeledger](https://github.com/realopslabs/kubeledger) - The System of Record for Kubernetes accounting. Tracks CPU/RAM/GPU usage & costs per namespace, revealing hidden overhead. (Formerly Kube-Opex-Analytics).
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
@@ -460,6 +460,10 @@
 - [ManagedKube/kubernetes-common-services](https://github.com/ManagedKube/kubernetes-common-services) - These services help make it easier to manage your applications environment in Kubernetes
 - [chialab/docker-php](https://github.com/chialab/docker-php) - 🧰 Adding common PHP extensions to some of the official PHP Docker images.
 
+## Mermaid 
+
+- [vaquarkhan/microservices-recipes-a-free-gitbook](https://github.com/vaquarkhan/microservices-recipes-a-free-gitbook) - “The Architect's Field Guide. Featuring The Khan Pattern™ for Adaptive Granularity: stop splitting, start governing.”  ― Vaquar Khan
+
 ## Mustache 
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
@@ -508,7 +512,6 @@
 - [askmeegs/learn-istio](https://github.com/askmeegs/learn-istio) - ⛵️ Istio resources 🕸
 - [dennyzhang/kubernetes-yaml-templates](https://github.com/dennyzhang/kubernetes-yaml-templates) - Kubernetes Yaml Templates
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
-- [vaquarkhan/microservices-recipes-a-free-gitbook](https://github.com/vaquarkhan/microservices-recipes-a-free-gitbook) - “The Architect's Field Guide. Featuring The Khan Pattern™ for Adaptive Granularity: stop splitting, start governing.”  ― Vaquar Khan
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -581,7 +584,7 @@
 
 ## Python 
 
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [DmitryNFomin/pg_10046](https://github.com/DmitryNFomin/pg_10046) - Oracle 10046 inspired SQL tracing for PostgreSQL
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
@@ -619,6 +622,7 @@
 - [linkedin/kafka-tools](https://github.com/linkedin/kafka-tools) - A collection of tools for working with Apache Kafka.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [AndrewFarley/AWS-Automated-Daily-Instance-AMI-Snapshots](https://github.com/AndrewFarley/AWS-Automated-Daily-Instance-AMI-Snapshots) - A serverless application to automatically backup instances and volumes regularly on AWS and delete them after a certain number of days
+- [kubeflow/spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 - [awslabs/rds-snapshot-tool](https://github.com/awslabs/rds-snapshot-tool) - The Snapshot Tool for Amazon RDS automates the task of creating manual snapshots, copying them into a different account and a different region, and deleting them after a specified number of days
 - [linuxacademy/content-lambda-boto3](https://github.com/linuxacademy/content-lambda-boto3) - Automating AWS with Lambda, Python, and Boto3
 - [frommelmak/aws-scripts](https://github.com/frommelmak/aws-scripts) - Some useful AWS scripts
