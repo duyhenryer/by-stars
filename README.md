@@ -150,7 +150,7 @@
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [liweiyi88/onedump](https://github.com/liweiyi88/onedump) - Effortless database administration tool
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
-- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Runs anywhere - desktop, cluster, docker.
+- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.
 - [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress & Gateway API Controller
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
@@ -303,7 +303,9 @@
 ## Go Template 
 
 - [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem
+- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) - Redpanda Helm Chart
 - [traefik/traefik-helm-chart](https://github.com/traefik/traefik-helm-chart) - Traefik Proxy Helm Chart
+- [dirsigler/uptime-kuma-helm](https://github.com/dirsigler/uptime-kuma-helm) - This Helm Chart installs Uptime-Kuma from @louislam to your Kubernetes Cluster.
 - [rancher/charts](https://github.com/rancher/charts) - Github based Helm Chart Index Repository providing charts crafted for Rancher Manager
 
 ## HCL 
@@ -390,7 +392,7 @@
 - [IBM/openshift-mongodb-enterprise-operator-example](https://github.com/IBM/openshift-mongodb-enterprise-operator-example) - Using MongoDB Enterprise Operator with OpenShift and adding TLS using cert-manager
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [JiHong88/suneditor](https://github.com/JiHong88/suneditor) - A lightweight and powerful WYSIWYG editor in vanilla JavaScript. No dependencies.
-- [realopslabs/kubeledger](https://github.com/realopslabs/kubeledger) - The System of Record for Kubernetes accounting. Tracks CPU/RAM/GPU usage & costs per namespace, revealing hidden overhead. (Formerly Kube-Opex-Analytics).
+- [realopslabs/kubeledger](https://github.com/realopslabs/kubeledger) - The System of Record for Kubernetes Accounting. Tracks CPU/RAM/GPU usage per namespace. Reveals hidden overhead. Get Insights for cost optimization. (Formerly Kube-Opex-Analytics).
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
@@ -403,7 +405,6 @@
 - [SebastienBtr/Micro-express](https://github.com/SebastienBtr/Micro-express) - Proof of concept of a specs driven development microservices architecture using code generation.
 - [debezium/debezium-examples](https://github.com/debezium/debezium-examples) - Examples for running Debezium (Configuration, Docker Compose files etc.). Please log issues at https://github.com/debezium/dbz/issues.
 - [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis
-- [pantsel/konga](https://github.com/pantsel/konga) - More than just another GUI to Kong Admin API
 - [aws-actions/amazon-ecr-login](https://github.com/aws-actions/amazon-ecr-login) - Logs into Amazon ECR with the local Docker client.
 - [luksa/kubernetes-in-action](https://github.com/luksa/kubernetes-in-action) - Code from the Kubernetes in Action book
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
@@ -479,8 +480,8 @@
 
 ## Others 
 
-- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 300+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
-- [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
+- [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code)
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -539,7 +540,6 @@
 - [AlessioCasco/AWS-CSA-2019-study-notes](https://github.com/AlessioCasco/AWS-CSA-2019-study-notes) - My Study Notes for the AWS Certified Solutions Architect - Associate 2019
 - [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji) - Every commit is important. So let's celebrate each and every commit with a corresponding emoji! :smile:
 - [raycad/devops-roadmap](https://github.com/raycad/devops-roadmap) - DevOps methodology & roadmap for a devops developer in 2019. Interesting books to learn new technologies.
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [monitoringartist/kubernetes-zabbix](https://github.com/monitoringartist/kubernetes-zabbix) - :package: Kubernetes Zabbix/Grafana cluster (bare metal, Google Computer Engine - GCE, Google Container Engine - GKE)
 - [duyhenryer/Login-with-Fprint-on-ArchLinux](https://github.com/duyhenryer/Login-with-Fprint-on-ArchLinux) - #️⃣ Login fprint on Arch Linux
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
@@ -787,8 +787,6 @@
 
 ## Smarty 
 
-- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) - Redpanda Helm Chart
-- [dirsigler/uptime-kuma-helm](https://github.com/dirsigler/uptime-kuma-helm) - This Helm Chart installs Uptime-Kuma from @louislam to your Kubernetes Cluster.
 - [minhpq331/jitsi-scalable-helm](https://github.com/minhpq331/jitsi-scalable-helm) - Scalable jitsi helm chart
 
 ## TypeScript 
