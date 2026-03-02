@@ -10,6 +10,7 @@
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C++](#c++)
+- [CSS](#css)
 - [CUE](#cue)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
@@ -65,6 +66,8 @@
 
 ## C 
 
+- [coreos/rpm-ostree](https://github.com/coreos/rpm-ostree) - ⚛📦 Hybrid image/package system with atomic upgrades and package layering
+- [ostreedev/ostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
@@ -84,6 +87,7 @@
 
 ## C++ 
 
+- [LotusInputMethod/fcitx5-lotus](https://github.com/LotusInputMethod/fcitx5-lotus) - Bộ gõ tiếng Việt cho Linux mã nguồn mở, hướng đến trải nghiệm gõ không gạch chân mượt mà
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
 - [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -95,6 +99,10 @@
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [ndrplz/self-driving-car](https://github.com/ndrplz/self-driving-car) - Udacity Self-Driving Car Engineer Nanodegree projects.
+
+## CSS 
+
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 
 ## CUE 
 
@@ -209,8 +217,7 @@
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [stefanprodan/mgob](https://github.com/stefanprodan/mgob) - MongoDB dockerized backup agent. Runs schedule backups with retention, S3 & SFTP upload, notifications, instrumentation with Prometheus and more.
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
@@ -340,7 +347,6 @@
 
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests.
 - [aws-samples/aws-iam-access-key-auto-rotation](https://github.com/aws-samples/aws-iam-access-key-auto-rotation) - This set of CloudFormation templates and Python scripts will set up an auto-rotation function that will automatically rotate your AWS IAM User Access Keys every 90 days.
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [themesberg/tailwind-dashboard-windster](https://github.com/themesberg/tailwind-dashboard-windster) - Free and open-source admin dashboard interface built on top of Tailwind CSS and Flowbite
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [jmhobbs/cultofthepartyparrot.com](https://github.com/jmhobbs/cultofthepartyparrot.com) - PARTY OR DIE
@@ -560,6 +566,7 @@
 
 ## PHP 
 
+- [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [systemsdk/docker-nginx-php-laravel](https://github.com/systemsdk/docker-nginx-php-laravel) - Docker environment required to run Laravel (based on official php and mysql docker hub repositories)
 - [mrfoh/docker-laravel](https://github.com/mrfoh/docker-laravel) - Basic starter for using Docker for a local laravel environment
 - [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
@@ -584,7 +591,7 @@
 
 ## Python 
 
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [DmitryNFomin/pg_10046](https://github.com/DmitryNFomin/pg_10046) - Oracle 10046 inspired SQL tracing for PostgreSQL
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
@@ -726,7 +733,7 @@
 - [AIE-London/ethereum-docker](https://github.com/AIE-London/ethereum-docker) - Ethereum development and test single and multi-node clusters using Docker :whale:
 - [wfg/docker-openvpn-client](https://github.com/wfg/docker-openvpn-client) - OpenVPN client with killswitch and proxy servers; built on Alpine
 - [ruzickap/k8s-eks-bottlerocket-fargate](https://github.com/ruzickap/k8s-eks-bottlerocket-fargate) - Notes from Amazon EKS Bottlerocket and Fargate testing
-- [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master, multi-node Kubernetes homelab using kubeadm, Ansible, Helm and Terraform.
+- [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a Kubernetes homelab using kubeadm, Ansible, Helm and Terraform.
 - [linhxhust/dotfiles](https://github.com/linhxhust/dotfiles) - :whale: A set of sway neovim, fish, git, and tmux configuration files
 - [hasura/graphql-backend-benchmarks](https://github.com/hasura/graphql-backend-benchmarks) - GraphQL performance benchmarks across Hasura, Postgraphile and Prisma
 - [adilsoybali/Log4j-RCE-Scanner](https://github.com/adilsoybali/Log4j-RCE-Scanner) - Remote command execution vulnerability scanner for Log4j.
@@ -745,7 +752,6 @@
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
 - [ahmetb/cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering about Google Cloud Run.
-- [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [jweissig/episode-45](https://github.com/jweissig/episode-45) - Episode #45 - Learning Ansible with Vagrant
