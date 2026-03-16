@@ -140,6 +140,7 @@
 
 ## Go 
 
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast container image distribution plugin with lazy pulling
 - [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter) - A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step.
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
@@ -218,6 +219,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [stefanprodan/mgob](https://github.com/stefanprodan/mgob) - MongoDB dockerized backup agent. Runs schedule backups with retention, S3 & SFTP upload, notifications, instrumentation with Prometheus and more.
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
@@ -373,7 +375,7 @@
 - [a-great-day-out-with/a-great-day-out-with.github.io](https://github.com/a-great-day-out-with/a-great-day-out-with.github.io) - 
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
 - [GoogleCloudPlatform/gke-deployment-testing-strategies](https://github.com/GoogleCloudPlatform/gke-deployment-testing-strategies) - 
-- [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+- [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 - [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
 - [apache/cassandra](https://github.com/apache/cassandra) - Apache Cassandra®
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
@@ -486,7 +488,7 @@
 
 ## Others 
 
-- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 500+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code)
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
@@ -553,7 +555,7 @@
 - [bcongdon/awesome-lightning-network](https://github.com/bcongdon/awesome-lightning-network) - ⚡ A curated list of awesome Lightning Network projects for developers and crypto enthusiasts
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [igorbarinov/awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - A curated list of bitcoin services and tools for software developers
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [sqreen/awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - Curated list of awesome open-source applications made with Node.js
 - [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) - Curated list of everything awesome around pixel art.
@@ -591,10 +593,12 @@
 
 ## Python 
 
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [DmitryNFomin/pg_10046](https://github.com/DmitryNFomin/pg_10046) - Oracle 10046 inspired SQL tracing for PostgreSQL
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
+- [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) - Claude Code settings, commands and agents for vibe coding
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [firewalld/firewalld](https://github.com/firewalld/firewalld) - Stateful zone based firewall daemon with D-Bus interface
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -658,6 +662,7 @@
 
 ## Rust 
 
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [edera-dev/krata](https://github.com/edera-dev/krata) - krata is a Xen control plane in Rust.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
@@ -708,7 +713,6 @@
 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [akuity/kargo-advanced](https://github.com/akuity/kargo-advanced) - Advanced Kargo Example
-- [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) - Claude Code settings, commands and agents for vibe coding
 - [Smana/cloud-native-ref](https://github.com/Smana/cloud-native-ref) - Opiniated Cloud Native Platform Reference
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
