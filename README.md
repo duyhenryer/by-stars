@@ -239,7 +239,6 @@
 - [hypnoglow/helm-s3](https://github.com/hypnoglow/helm-s3) - ⎈ Helm plugin that adds support for AWS S3 as a chart repository.
 - [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) - Pinset orchestration for IPFS
 - [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -270,7 +269,7 @@
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
 - [ricoberger/vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator) - Create Kubernetes secrets from Vault for a secure GitOps based workflow.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
+- [bitnami/sealed-secrets](https://github.com/bitnami/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
@@ -346,6 +345,7 @@
 
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests.
 - [aws-samples/aws-iam-access-key-auto-rotation](https://github.com/aws-samples/aws-iam-access-key-auto-rotation) - This set of CloudFormation templates and Python scripts will set up an auto-rotation function that will automatically rotate your AWS IAM User Access Keys every 90 days.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [themesberg/tailwind-dashboard-windster](https://github.com/themesberg/tailwind-dashboard-windster) - Free and open-source admin dashboard interface built on top of Tailwind CSS and Flowbite
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [jmhobbs/cultofthepartyparrot.com](https://github.com/jmhobbs/cultofthepartyparrot.com) - PARTY OR DIE
@@ -598,7 +598,7 @@
 - [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman) - Barman - Backup and Recovery Manager for PostgreSQL
 - [osbuild/bootc-image-builder](https://github.com/osbuild/bootc-image-builder) - A container for deploying bootable container images.
 - [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,600+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
 - [DmitryNFomin/pg_10046](https://github.com/DmitryNFomin/pg_10046) - Oracle 10046 inspired SQL tracing for PostgreSQL
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
@@ -612,6 +612,7 @@
 - [jgontrum/spacy-api-docker](https://github.com/jgontrum/spacy-api-docker) - spaCy REST API, wrapped in a Docker container.
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -824,7 +825,6 @@
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [gimlet-io/capacitor](https://github.com/gimlet-io/capacitor) - A general purpose UI for FluxCD.
 - [Consdata/kouncil](https://github.com/Consdata/kouncil) - Powerful dashboard for your Kafka. Monitor status, manage groups, topics, send messages and diagnose problems. All in one user friendly web dashboard.
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
