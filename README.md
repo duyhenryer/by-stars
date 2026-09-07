@@ -151,7 +151,6 @@
 - [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - GitOps on Autopilot Mode
 - [flux-iac/tofu-controller](https://github.com/flux-iac/tofu-controller) - A GitOps OpenTofu and Terraform controller for Flux
 - [rootsami/terradrift](https://github.com/rootsami/terradrift) - A tool to detect drifts in terraform IaC
-- [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [enix/kube-image-keeper](https://github.com/enix/kube-image-keeper) - kuik is a container image routing, mirroring (caching) and replication system for Kubernetes
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
@@ -159,7 +158,7 @@
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [liweiyi88/onedump](https://github.com/liweiyi88/onedump) - Effortless database administration tool
-- [cloudposse/atmos](https://github.com/cloudposse/atmos) - Atmos is the open-source runtime for infrastructure — it builds, authenticates, and ships Terraform, OpenTofu, Kubernetes, Helm, and containers the same way on your laptop, in CI, and with AI agents.
+- [cloudposse/atmos](https://github.com/cloudposse/atmos) - Atmos is the open-source runtime for infrastructure — it builds, authenticates, and ships Terraform, OpenTofu, Packer, Ansible, Kubernetes, Helm, and containers the same way on your laptop, in CI, and
 - [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.
 - [kubernetes-retired/ingate](https://github.com/kubernetes-retired/ingate) - [EOL] InGate - an Ingress & Gateway API Controller
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs an
@@ -319,7 +318,6 @@
 ## HCL 
 
 - [bchess/k8s-1m](https://github.com/bchess/k8s-1m) - Run Kubernetes with a million nodes
-- [Smana/cloud-native-ref](https://github.com/Smana/cloud-native-ref) - Opiniated Cloud Native Platform Reference
 - [stacksimplify/terraform-on-google-kubernetes-engine](https://github.com/stacksimplify/terraform-on-google-kubernetes-engine) - GCP GKE Terraform on Google Kubernetes Engine with DevOps, SRE 40 Real-World Demos
 - [grem11n/terraform-aws-vpc-peering](https://github.com/grem11n/terraform-aws-vpc-peering) - Terraform module to setup VPC peering connection
 - [philips-labs/terraform-aws-github-oidc](https://github.com/philips-labs/terraform-aws-github-oidc) - Terraform module to  setup OIDC with AWS and GH Actions
@@ -552,7 +550,7 @@
 - [bcongdon/awesome-lightning-network](https://github.com/bcongdon/awesome-lightning-network) - ⚡ A curated list of awesome Lightning Network projects for developers and crypto enthusiasts
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [igorbarinov/awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - A curated list of bitcoin services and tools for software developers
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [sqreen/awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - Curated list of awesome open-source applications made with Node.js
 - [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) - Curated list of everything awesome around pixel art.
@@ -593,7 +591,7 @@
 - [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman) - Barman - Backup and Recovery Manager for PostgreSQL
 - [osbuild/bootc-image-builder](https://github.com/osbuild/bootc-image-builder) - A container for deploying bootable container images.
 - [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,100+ agentic skills. Includes CLI, local MCP, catalo
 - [DmitryNFomin/pg_10046](https://github.com/DmitryNFomin/pg_10046) - Oracle 10046 inspired SQL tracing for PostgreSQL
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
@@ -673,7 +671,7 @@
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
-- [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, modern, and easily configurable web server with automatic TLS.
+- [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, modern web server built for production debugging.
 - [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -713,6 +711,7 @@
 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [akuity/kargo-advanced](https://github.com/akuity/kargo-advanced) - Advanced Kargo Example
+- [Smana/cloud-native-ref](https://github.com/Smana/cloud-native-ref) - Opiniated Cloud Native Platform Reference
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
@@ -805,6 +804,7 @@
 - [headlamp-k8s/plugins](https://github.com/headlamp-k8s/plugins) - Official plugins of the Headlamp project
 - [supabase/agent-skills](https://github.com/supabase/agent-skills) - Agent Skills to help developers using AI agents with Supabase
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Tutorials, Guides and Agent Skills Directories
+- [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - GitHub Action to import a GPG key
 - [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) - create comment on pull request, if exists update that comment.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
