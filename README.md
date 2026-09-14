@@ -10,7 +10,6 @@
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C++](#c++)
-- [CSS](#css)
 - [CUE](#cue)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
@@ -101,10 +100,6 @@
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [ndrplz/self-driving-car](https://github.com/ndrplz/self-driving-car) - Udacity Self-Driving Car Engineer Nanodegree projects.
 
-## CSS 
-
-- [vaquarkhan/microservices-recipes-a-free-gitbook](https://github.com/vaquarkhan/microservices-recipes-a-free-gitbook) - “The Architect's Field Guide. Featuring The Khan Pattern™ for Adaptive Granularity: stop splitting, start governing.”  -Vaquar Khan
-
 ## CUE 
 
 - [stefanprodan/flux-local-dev](https://github.com/stefanprodan/flux-local-dev) - Flux local dev environment with Docker and Kubernetes KIND
@@ -135,7 +130,7 @@
 - [salrashid123/squid_proxy](https://github.com/salrashid123/squid_proxy) - Multi-mode Squid Proxy container running SSL intercept
 - [tcardonne/docker-github-runner](https://github.com/tcardonne/docker-github-runner) - Run GitHub Actions on self-hosted runner using Docker.
 - [mtpatter/postgres-kafka-demo](https://github.com/mtpatter/postgres-kafka-demo) - Fully reproducible, Dockerized, step-by-step, demo on how to stream tables from Postgres to Kafka/KSQL back to Postgres.  Detailed blog post published on Medium.
-- [dockette/php](https://github.com/dockette/php) - :whale: Dockette Debian based PHP 5.6-8.4 + FPM + Composer.
+- [dockette/php](https://github.com/dockette/php) - :whale: Dockette Debian based PHP 5.6-8.5 + FPM + Composer.
 - [docker-library/openjdk](https://github.com/docker-library/openjdk) - Docker Official Image packaging for EA builds of OpenJDK from Oracle
 - [aschmelyun/docker-compose-laravel](https://github.com/aschmelyun/docker-compose-laravel) - A docker-compose workflow for local Laravel development
 
@@ -321,6 +316,7 @@
 - [stacksimplify/terraform-on-google-kubernetes-engine](https://github.com/stacksimplify/terraform-on-google-kubernetes-engine) - GCP GKE Terraform on Google Kubernetes Engine with DevOps, SRE 40 Real-World Demos
 - [grem11n/terraform-aws-vpc-peering](https://github.com/grem11n/terraform-aws-vpc-peering) - Terraform module to setup VPC peering connection
 - [philips-labs/terraform-aws-github-oidc](https://github.com/philips-labs/terraform-aws-github-oidc) - Terraform module to  setup OIDC with AWS and GH Actions
+- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [superorbital/aws-eks-blueprint-examples](https://github.com/superorbital/aws-eks-blueprint-examples) - An example Terraform repo that utilizes the upstream EKS blueprints project from AWS Integration and Automation.
 - [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [cucxabong/terraform-cloudflare-module](https://github.com/cucxabong/terraform-cloudflare-module) - DRY principle, eliminate repetitive configurations you write into *.tf files
@@ -433,7 +429,7 @@
 ## Jsonnet 
 
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
-- [kubernetes-purgatory/kubernetes-mixin](https://github.com/kubernetes-purgatory/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
+- [kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [argoproj/argocd-example-apps](https://github.com/argoproj/argocd-example-apps) - Example Apps to Demonstrate Argo CD
 
 ## Jupyter Notebook 
@@ -479,7 +475,7 @@
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [breuerfelix/dotfiles](https://github.com/breuerfelix/dotfiles) - macOS + nix + home-manager + yabai + zsh + zellij + neovim
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
-- [Remedan/dotfiles](https://github.com/Remedan/dotfiles) - My setup
+- [Remedan/flake](https://github.com/Remedan/flake) - My setup
 
 ## Others 
 
@@ -591,7 +587,7 @@
 - [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman) - Barman - Backup and Recovery Manager for PostgreSQL
 - [osbuild/bootc-image-builder](https://github.com/osbuild/bootc-image-builder) - A container for deploying bootable container images.
 - [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,100+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalo
 - [DmitryNFomin/pg_10046](https://github.com/DmitryNFomin/pg_10046) - Oracle 10046 inspired SQL tracing for PostgreSQL
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [dalibo/temboard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control
@@ -627,6 +623,7 @@
 - [chubin/rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
 - [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
 - [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
+- [vaquarkhan/microservices-recipes-a-free-gitbook](https://github.com/vaquarkhan/microservices-recipes-a-free-gitbook) - “The Architect's Field Guide. Featuring The Khan Pattern™ for Adaptive Granularity: stop splitting, start governing.”  -Vaquar Khan
 - [linkedin/kafka-tools](https://github.com/linkedin/kafka-tools) - A collection of tools for working with Apache Kafka.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [AndrewFarley/AWS-Automated-Daily-Instance-AMI-Snapshots](https://github.com/AndrewFarley/AWS-Automated-Daily-Instance-AMI-Snapshots) - A serverless application to automatically backup instances and volumes regularly on AWS and delete them after a certain number of days
@@ -811,10 +808,9 @@
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
-- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [gimlet-io/capacitor](https://github.com/gimlet-io/capacitor) - A general purpose UI for FluxCD.
