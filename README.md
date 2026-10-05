@@ -130,7 +130,7 @@
 - [salrashid123/squid_proxy](https://github.com/salrashid123/squid_proxy) - Multi-mode Squid Proxy container running SSL intercept
 - [tcardonne/docker-github-runner](https://github.com/tcardonne/docker-github-runner) - Run GitHub Actions on self-hosted runner using Docker.
 - [mtpatter/postgres-kafka-demo](https://github.com/mtpatter/postgres-kafka-demo) - Fully reproducible, Dockerized, step-by-step, demo on how to stream tables from Postgres to Kafka/KSQL back to Postgres.  Detailed blog post published on Medium.
-- [dockette/php](https://github.com/dockette/php) - :whale: Dockette Debian based PHP 5.6-8.5 + FPM + Composer.
+- [dockette/php](https://github.com/dockette/php) - 🐳 PHP 5.6–8.5 + FPM + Composer on Debian
 - [docker-library/openjdk](https://github.com/docker-library/openjdk) - Docker Official Image packaging for EA builds of OpenJDK from Oracle
 - [aschmelyun/docker-compose-laravel](https://github.com/aschmelyun/docker-compose-laravel) - A docker-compose workflow for local Laravel development
 
@@ -330,7 +330,6 @@
 - [cloudposse/terraform-aws-ec2-bastion-server](https://github.com/cloudposse/terraform-aws-ec2-bastion-server) - Terraform module to define a generic Bastion host with parameterized user_data  and support for AWS SSM Session Manager for remote access with IAM authentication.
 - [100daysofdevops/21_days_of_aws_using_terraform](https://github.com/100daysofdevops/21_days_of_aws_using_terraform) - 
 - [terraform-aws-modules/terraform-aws-autoscaling](https://github.com/terraform-aws-modules/terraform-aws-autoscaling) - Terraform module to create AWS Auto Scaling resources 🇺🇦
-- [PacktPublishing/Hands-on-Infrastructure-Automation-with-Terraform-on-AWS](https://github.com/PacktPublishing/Hands-on-Infrastructure-Automation-with-Terraform-on-AWS) - Hands-on Infrastructure Automation with Terraform on AWS by Packt Publishing
 - [ramitsurana/terraform-ansible-setup](https://github.com/ramitsurana/terraform-ansible-setup) - Setting up your complete infrastructure on cloud premises using Infrastructure as a Code
 - [slawekzachcial/kubernetes-the-hard-way-aws](https://github.com/slawekzachcial/kubernetes-the-hard-way-aws) - AWS flavour of https://github.com/kelseyhightower/kubernetes-the-hard-way
 - [terraform-aws-modules/terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Terraform module to create AWS VPC resources 🇺🇦
@@ -583,7 +582,6 @@
 ## Python 
 
 - [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman) - Barman - Backup and Recovery Manager for PostgreSQL
-- [osbuild/bootc-image-builder](https://github.com/osbuild/bootc-image-builder) - A container for deploying bootable container images.
 - [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [DmitryNFomin/pg_10046](https://github.com/DmitryNFomin/pg_10046) - Oracle 10046 inspired SQL tracing for PostgreSQL
@@ -697,7 +695,6 @@
 ## SCSS 
 
 - [hugo-apero/hugo-apero](https://github.com/hugo-apero/hugo-apero) - Apéro is a Hugo theme for personal websites. A Hugo theme you'll want to hang out with :milky_way: . This is the source for the theme files to install.
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 
 ## Scala 
 
@@ -705,6 +702,7 @@
 
 ## Shell 
 
+- [osbuild/bootc-image-builder](https://github.com/osbuild/bootc-image-builder) - Containerfile and tekton pipelines for quay.io/centos-bootc/bootc-image-builder
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [akuity/kargo-advanced](https://github.com/akuity/kargo-advanced) - Advanced Kargo Example
 - [Smana/cloud-native-ref](https://github.com/Smana/cloud-native-ref) - Opiniated Cloud Native Platform Reference
@@ -848,6 +846,7 @@
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [avatsaev/angular-contacts-app-example](https://github.com/avatsaev/angular-contacts-app-example) - Full Stack Angular PWA example app with NgRx & NestJS
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Vim Script 
